@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    color: snow;  
+} 
+
+html{
+    background-color: darkgray;
+    
+}
+
+ul{
+    list-style: none;
+    font-family: 'Philosopher', sans-serif;
+    color: royalblue;
+    
+}
